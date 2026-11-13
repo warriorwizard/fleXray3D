@@ -16,7 +16,7 @@ the default training/inference head: the aggregate evaluation labels
 `lumbar_spine` and `thoracolumbar_spine` are omitted because they are derived
 from the individual vertebra outputs during evaluation. An explicit
 `protocol.model_labels.names` list can still select a different validated
-subset for a run.
+subset for a run. 
 
 Callers should treat both orders as part of the public contract. Changing a
 label name, inserting a label, or moving a label changes ground-truth or model

@@ -249,3 +249,5 @@ If you find FleXray or any of its materials useful, please cite [our paper](http
 
 * Code is released under the [MIT License](https://github.com/VictorButoi/FleXray/blob/main/LICENSE).
 * Public model weights are released under `CC-BY-NC-4.0` unless a model card says otherwise.
+
+# fleXray3D

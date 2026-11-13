@@ -32,3 +32,10 @@ dist/
 
 # Example working directories
 examples/custom_dataset/work/
+
+# UI dependencies and runtime cache
+node_modules/
+ui/node_modules/
+ui_data/
+*.bin
+
